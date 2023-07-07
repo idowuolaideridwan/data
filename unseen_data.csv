@@ -1,0 +1,5 @@
+RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited
+8286,15572631,Ndubuisi,609,France,Male,25,10,0,1,0,1,109895.16,0
+7854,15746674,Miller,730,France,Female,47,7,0,1,1,0,33373.26,1
+1096,15689081,Wu,692,France,Male,29,4,0,1,1,0,76755.99,1
+6930,15651627,White,628,Germany,Male,39,1,115341.19,1,1,1,107674.3,1
