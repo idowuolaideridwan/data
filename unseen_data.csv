@@ -1,6 +1,7 @@
 RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited
-18,15788218,Henderson,549,Spain,Female,24,9,0,2,1,1,14406.41,0
-1771,15689980,Willis,725,Spain,Female,36,4,118520.26,1,0,0,131173.9,1
-1889,15663921,Pisani,429,France,Male,60,7,0,2,1,1,163691.48,0
-2153,15630698,Hay,745,France,Female,55,9,110123.59,1,0,1,51548.14,1
-1643,15683544,Buccho,626,Spain,Male,62,3,0,1,1,1,65010.74,0
+8720,15811415,Jenks,691,France,Female,44,6,134066.1,2,1,1,197572.41,0
+6413,15598982,Klein,602,Germany,Female,53,5,98268.84,1,0,1,45038.29,1
+8286,15572631,Ndubuisi,609,France,Male,25,10,0,1,0,1,109895.16,0
+7854,15746674,Miller,730,France,Female,47,7,0,1,1,0,33373.26,1
+1096,15689081,Wu,692,France,Male,29,4,0,1,1,0,76755.99,1
+6930,15651627,White,628,Germany,Male,39,1,115341.19,1,1,1,107674.3,1
